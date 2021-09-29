@@ -1,3 +1,3 @@
 # Kross Ack
 
-ExpressJS liked web framework for Deno
+Add route and middleware support to Deno HTTP server.
